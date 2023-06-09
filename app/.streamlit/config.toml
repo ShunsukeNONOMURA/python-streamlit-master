@@ -1,0 +1,7 @@
+[server]
+# headless = true
+# port = 80
+runOnSave = true # 上手く更新されない場合がある？
+
+[theme]
+# base="light"
